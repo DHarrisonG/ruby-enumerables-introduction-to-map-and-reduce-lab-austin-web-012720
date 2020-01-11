@@ -66,9 +66,8 @@ def reduce_to_any_true(arr)
     if (arr[i] == true)
      return true 
      i += 1 
-     else 
-    return false
      end
+     return false
   end
 end
 
