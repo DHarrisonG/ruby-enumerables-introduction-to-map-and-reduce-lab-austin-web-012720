@@ -56,8 +56,7 @@ def reduce_to_all_true(arr)
     if (arr[i] == false)
       return false
     end
-    return true
   end
-
+    return true
 end
 
