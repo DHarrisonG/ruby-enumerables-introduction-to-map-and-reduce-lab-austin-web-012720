@@ -64,7 +64,7 @@ def reduce_to_any_true(arr)
   i = 0
   while i < arr.length do 
     if (arr[i] == true)
-      arr[i] = truth_return
+      ar
     else 
   end
 end
